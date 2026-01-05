@@ -60,8 +60,8 @@ Alongside my studies, I work as a private tutor, teaching computer science to hi
 ---
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RohitKumar939&show_icons=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RohitKumar939&layout=compact)
 
 ⭐ *Always learning and improving.*
