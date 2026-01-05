@@ -1,4 +1,4 @@
-# Hi, I'm 👋
+# Hi, I'm Rohit Kumar 👋
 
 🎓 Second-year engineering student at the University of Wollongong Dubai  
 💻 Bachelor of Engineering (Honours) – Computer and Autonomous Systems Engineering  
@@ -41,7 +41,7 @@ Alongside my studies, I work as a private tutor, teaching computer science to hi
 - Programming & Technology
 - Gaming
 - Learning Game Development
-- Exploring new tools
+- Exploring new tools and software
 
 ---
 
@@ -52,16 +52,18 @@ Alongside my studies, I work as a private tutor, teaching computer science to hi
 
 ---
 
-## 📫 Contact
-
-- Email: your.email@gmail.com  
-- GitHub: https://github.com/yourusername  
-
----
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RohitKumar939&show_icons=true)
+![Rohit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RohitKumar939&show_icons=true&hide_rank=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RohitKumar939&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RohitKumar939&layout=compact&langs_count=6)
 
-⭐ *Always learning and improving.*
+---
+
+## 📫 Contact
+- Email: rk1252400@gmail.com
+- GitHub: https://github.com/RohitKumar939
+
+---
+
+⭐ *Always learning, improving, and building.*
