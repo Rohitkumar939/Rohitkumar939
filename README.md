@@ -1,6 +1,6 @@
 # Hi, I'm Rohit Kumar 👋
 
-🎓 Second-year engineering student at the University of Wollongong Dubai  
+🎓 First-year engineering student at the GLA University Mathura 
 💻 Bachelor of Engineering (Honours) – Computer and Autonomous Systems Engineering  
 📍 Dubai, UAE  
 
@@ -8,7 +8,7 @@
 
 ## 👨‍💻 About Me
 
-I am a second-year engineering student with a strong interest in computer science and technology. I enjoy learning new things related to programming and software development. Currently, I am building my fundamentals in Python and C and have recently started exploring how games are developed.
+I am a First-year engineering student with a strong interest in computer science and technology. I enjoy learning new things related to programming and software development. Currently, I am building my fundamentals in Python and C and have recently started exploring how games are developed.
 
 Alongside my studies, I work as a private tutor, teaching computer science to high school students. I enjoy explaining concepts clearly and helping others understand.
 
