@@ -1,8 +1,8 @@
 # Hi, I'm Rohit Kumar 👋
 
 🎓 First-year engineering student at the GLA University Mathura 
-💻 Bachelor of Engineering (Honours) – Computer and Autonomous Systems Engineering  
-📍 Dubai, UAE  
+💻 Bachelor of Technology- Computer Science (Core)
+📍 Uttar Pradesh, India 
 
 ---
 
